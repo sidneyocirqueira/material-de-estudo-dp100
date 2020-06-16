@@ -1,7 +1,7 @@
 # Designing and Implementing a Data Science Solution on Azure
 
 ## Objetivo 
-Material de estudo complementar para exame DP100 da certificação Microsoft Azure Data Scientist Associate. 
+Material de estudo complementar para exame DP100 referente a certificação **Microsoft Azure Data Scientist Associate**. 
 
 ## Conteúdo
 
