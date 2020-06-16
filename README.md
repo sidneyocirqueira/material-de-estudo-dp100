@@ -1,2 +1,4 @@
-# materias-estudo
-Material de estudo DP100
+# Designing and Implementing a Data Science Solution on Azure
+
+Material de estudo complementar ao treinamento. 
+Contendo referência de documentações, links úteis, livros, exemplos de código e etc.
