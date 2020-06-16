@@ -5,7 +5,7 @@ Material de estudo complementar para exame DP100 da certificação Microsoft Azu
 
 ## Conteúdo
 
-Referência de documentações, links úteis, livros, exemplos de código e etc.
+Referência de documentações, links úteis, Microsoft Learning, livros, exemplos de código e etc.
 
 ## Notebook
 * [DP100](https://github.com/sidneyocirqueira/material-de-estudo-dp100/blob/master/notebooks/DP_100.ipynb) 
